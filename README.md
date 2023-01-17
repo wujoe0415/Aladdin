@@ -2,19 +2,19 @@
 
 ## Demo Video
 
-[<img src="C:\Users\wujoe\AppData\Roaming\Typora\typora-user-images\image-20230117203614168.png" alt="image-20230117203614168" style="zoom:33%;" />](https://youtu.be/0bdbDzCsc5g)
+[<img src="https://i.imgur.com/RbIXC3V.png" style="zoom:33%;" />](https://youtu.be/0bdbDzCsc5g)
 
 ## Structures
 
 There is a sphere structure under the plain. The player sit on the carpet and control the fly direction.
 
-<img src="C:\Users\wujoe\AppData\Roaming\Typora\typora-user-images\image-20230117194551322.png" alt="image-20230117194551322" style="zoom:67%;" />
+<img src="https://i.imgur.com/smx9A1T.png" style="zoom:67%;" />
 
 ## Controls
 
-<img src="C:\Users\wujoe\AppData\Roaming\Typora\typora-user-images\image-20230117194650302.png" alt="image-20230117194650302" style="zoom:67%;" />
+<img src="https://i.imgur.com/xeaVm3S.png" style="zoom:67%;" />
 
-<img src="C:\Users\wujoe\AppData\Roaming\Typora\typora-user-images\image-20230117194706734.png" alt="image-20230117194706734" style="zoom:74%;" />
+<img src="https://i.imgur.com/pQSqLTx.png" style="zoom:74%;" />
 
 ## Reduce Sickness
 
@@ -22,7 +22,7 @@ Because our experience will fly in the sky, we implement speed line and adjust F
 
 ### Speed line
 
-<img src="C:\Users\wujoe\AppData\Roaming\Typora\typora-user-images\image-20230117194830799.png" alt="image-20230117194830799" style="zoom:80%;" />
+<img src="https://i.imgur.com/2IPiAoH.png" style="zoom:80%;" />
 
 ### Field of View(FOV)
 
