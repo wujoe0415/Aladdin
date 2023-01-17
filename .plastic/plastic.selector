@@ -1,0 +1,4 @@
+repository "Aladdin@GreenLeaf0w0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
